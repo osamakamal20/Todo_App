@@ -1,16 +1,14 @@
-# provider_state
+# TODO APP using Provider_State_Managment
+TODO App 📝✍️🖋️📝
+"The TODO App is a versatile and user-friendly task management tool designed to help you organize and prioritize your daily tasks efficiently. 
+With this UI Design,  📝✍️🖋️📝
 
-A new Flutter project.
+## Features
+1: 📝 We will create a new task, 
+2: ✅ Check the task,
+3: 🗑️ Delete the task".
 
-## Getting Started
+## Demo of the Project
+https://github.com/osamakamal20/Todo_App/assets/70693692/f2a2eb2d-34b6-49fd-9e8a-fe8786b3c764
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
